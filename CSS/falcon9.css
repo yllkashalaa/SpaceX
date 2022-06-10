@@ -1,0 +1,44 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.falcon {
+    margin-left: 25px;
+    position: fixed;
+}
+
+.falcon9txt {
+    background-color: transparent;
+    color: white;
+    float: right;
+    width: 850px;
+    height: 750px;
+    margin-top: 150px;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.falcon1 {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif, Helvetica, sans-serif;
+}
+
+.falcon9 {
+    margin-left: 280px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif, Helvetica, sans-serif;
+}
+
+.launch {
+    margin-left: 280px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif, Helvetica, sans-serif;
+}
